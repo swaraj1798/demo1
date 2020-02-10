@@ -1,1 +1,1 @@
-print("swaraj")
+print("amrish")
